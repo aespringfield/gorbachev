@@ -1,0 +1,7 @@
+html {
+    overflow: visible !important;
+}
+
+div.o-overlay {
+    display: none !important;
+}

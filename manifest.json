@@ -1,0 +1,11 @@
+{
+    "name": "Gorbachev",
+    "version": "1.0",
+    "description": "Tear down that wall!",
+    "manifest_version": 2,
+
+    "content_scripts": [{
+        "css": ["style.css"],
+        "matches": ["http://www.startribune.com/*"]
+      }]
+}
