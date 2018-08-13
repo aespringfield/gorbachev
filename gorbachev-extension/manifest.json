@@ -6,6 +6,6 @@
 
     "content_scripts": [{
         "css": ["style.css"],
-        "matches": ["http://www.startribune.com/*"]
+        "matches": ["*://www.startribune.com/*"]
       }]
 }
