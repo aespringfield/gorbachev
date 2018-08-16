@@ -2,6 +2,10 @@ html {
     overflow: visible !important;
 }
 
+body {
+    overflow: visible !important;
+}
+
 div.o-overlay {
     display: none !important;
 }
