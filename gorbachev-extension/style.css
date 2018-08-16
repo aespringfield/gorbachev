@@ -1,8 +1,4 @@
-html {
-    overflow: visible !important;
-}
-
-body {
+html, body {
     overflow: visible !important;
 }
 
